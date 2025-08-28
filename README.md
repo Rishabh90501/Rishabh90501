@@ -18,23 +18,35 @@
   </samp>
 </p>
 <p align="center">
-  <samp>
-    📊 I create interactive visualizations using Power BI, Tableau, Matplotlib, and Seaborn to tell compelling data stories, demonstrated in projects like optimising Walmart Sales Reports and increasing report productivity for Adventure Works.
-  </samp>
+  📊
 </p>
 <p align="center">
   <samp>
-    🤖 Currently exploring Machine Learning and Natural Language Processing (NLP) as part of my ongoing Data Science & AI studies at the Boston Institute of Analytics(BIA). I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.
+    I create interactive visualizations using Power BI, Tableau, Matplotlib, and Seaborn to tell compelling data stories, demonstrated in projects like optimising Walmart Sales Reports and increasing report productivity for Adventure Works.
   </samp>
 </p>
 <p align="center">
-  <samp>
-    🚀 This GitHub showcases my learning journey, projects, and experiments with modern AI tech.
-  </samp>
+  🤖 
 </p>
 <p align="center">
   <samp>
-    🤝 Always open to collaboration and contributing to open-source—let’s innovate and grow together!
+    Currently exploring Machine Learning and Natural Language Processing (NLP) as part of my ongoing Data Science & AI studies at the Boston Institute of Analytics(BIA). I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.
+  </samp>
+</p>
+<p align="center">
+  🚀
+</p>
+<p align="center">
+  <samp>
+    This GitHub showcases my learning journey, projects, and experiments with modern AI tech.
+  </samp>
+</p>
+<p align="center">
+  🤝
+</p>
+<p align="center">
+  <samp>
+    Always open to collaboration and contributing to open-source—let’s innovate and grow together!
   </samp>
 </p>
 
