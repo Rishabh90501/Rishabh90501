@@ -1,7 +1,7 @@
-<h1 align="center"> 👋 </h1>
-<p align="center">
-  Hi! I’m Rishabh, Welcome to my Github Profile.
-</p>
+<h1 align="center"> 👋 </h1> 
+<h1 align="center">Hi! I’m Rishabh, Welcome to my Github Profile.</h1>
+
+<hr>
 
 <h2 align="center"> 👨‍💻 Wanna Know about me</h2>
 <p align="center">
@@ -9,27 +9,30 @@
     I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
   </samp>
 </p>
-<p>
+<p align="center">
+  🐍
+</p>
+<p align="center">
   <samp>
-    🐍 Proficient in Python, with hands-on experience using libraries such as Pandas, NumPy, Matplotlib, and Seaborn to build data-driven solutions that uncover meaningful insights from complex datasets.
+    Proficient in Python, with hands-on experience using libraries such as Pandas, NumPy, Matplotlib, and Seaborn to build data-driven solutions that uncover meaningful insights from complex datasets.
   </samp>
 </p>
-<p>
+<p align="center">
   <samp>
     📊 I create interactive visualizations using Power BI, Tableau, Matplotlib, and Seaborn to tell compelling data stories, demonstrated in projects like optimising Walmart Sales Reports and increasing report productivity for Adventure Works.
   </samp>
 </p>
-<p>
+<p align="center">
   <samp>
     🤖 Currently exploring Machine Learning and Natural Language Processing (NLP) as part of my ongoing Data Science & AI studies at the Boston Institute of Analytics(BIA). I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.
   </samp>
 </p>
-<p>
+<p align="center">
   <samp>
     🚀 This GitHub showcases my learning journey, projects, and experiments with modern AI tech.
   </samp>
 </p>
-<p>
+<p align="center">
   <samp>
     🤝 Always open to collaboration and contributing to open-source—let’s innovate and grow together!
   </samp>
