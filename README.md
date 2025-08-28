@@ -75,7 +75,7 @@
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/rishabh-salian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rishabh-salian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rishahbh.salian@outlook.com?subject=Hello%20Rishabh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rs_ronnie9501"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white?" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
