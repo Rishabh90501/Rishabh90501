@@ -54,7 +54,7 @@
 
 <hr>
 
-<h2 align="center"> 🔭 Tools of Trade</h2>
+<h2 align="center"> 🔭 Tools I Work With</h2>
 <p align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />&nbsp;&nbsp;&nbsp;
