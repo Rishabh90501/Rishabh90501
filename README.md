@@ -1,10 +1,8 @@
 <h1 align="center"> 👋
 <p align="center">Hi! I’m Rishabh, Welcome to my Github Profile.</p>
-</h1>
+<br>
+<p align="center"> 👨‍💻 Wanna Know about me</p></h1>
 
-<hr>
-
-<h2 align="center"> 👨‍💻 Wanna Know about me</h2>
 <p align="center">
   <samp>
     I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
@@ -53,7 +51,7 @@
   <img src="https://komarev.com/ghpvc/?username=Rishabh90501" alt="https://github.com/Rishabh90501" />
 </p>
 
-<hr>
+<br>
 
 <h2 align="center"> 🔭 Tools I Work With</h2>
 <p align="center">
@@ -63,7 +61,7 @@
 </p>
 <p align="center">DAX, Pandas, Numpy, Matplotlib, Seaborn, SQLite3, Scikit-learn, TensorFlow, Pytorch, MS Excel, MS Powerpoint, Power Query</p>
 
-<hr>
+<br>
 
 <h2  align="center">📫 Reach me on</h2>
 <p align="center">
@@ -72,7 +70,7 @@
   <a href="https://www.instagram.com/rs_ronnie9501"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white?" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+<br>
 
 <h2  align="center">📊 GitHub Stats</h2>
 <a href="https://github.com/Rishabh90501/github-readme-stats">
