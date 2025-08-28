@@ -60,8 +60,16 @@
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />&nbsp;&nbsp;&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />&nbsp;&nbsp;&nbsp;
 </p>
-<p align="center">DAX, Pandas, Numpy, Matplotlib, Seaborn, SQLite3, Scikit-learn, TensorFlow, Pytorch, MS Excel, MS Powerpoint, Power Query</p>
+<p align="center">Other Tools & Language I Work with are : DAX, Seaborn, MS Excel, MS Powerpoint, Power Query</p>
 
 <br>
 
