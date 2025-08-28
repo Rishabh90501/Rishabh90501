@@ -1,5 +1,6 @@
-<h1 align="center"> 👋 </h1> 
-<h1 align="center">Hi! I’m Rishabh, Welcome to my Github Profile.</h1>
+<h1 align="center"> 👋
+<p align="center">Hi! I’m Rishabh, Welcome to my Github Profile.</p>
+</h1>
 
 <hr>
 
