@@ -1,8 +1,9 @@
 <h1 align="center"> 👋
 <p align="center">Hi! I’m Rishabh,</p>
 <p align="center">Welcome to my Github Profile.</p>
-<br>
-<p align="center"> 👨‍💻 Wanna Know about me</p></h1>
+</h1>
+
+<h2><p align="center"> 👨‍💻 Wanna Know about me</p></h2>
 
 <p align="center">
   <samp>
