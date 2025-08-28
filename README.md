@@ -75,8 +75,8 @@
 
 <h2  align="center">📊 GitHub Stats</h2>
 <a href="https://github.com/Rishabh90501/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh90501&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Rishabh90501&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=github_dark_dimmed" />
 </a>
 <a href="https://github.com/Rishabh90501/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh90501&theme=github_dark_dimmed&repo=convoychat" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh90501&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
 </a>
