@@ -48,6 +48,8 @@
   <samp>
     Always open to collaboration and contributing to open-source—let’s innovate and grow together!
   </samp>
+  <br> <br>
+  <img src="https://komarev.com/ghpvc/?username=Rishabh90501" alt="https://github.com/Rishabh90501" />
 </p>
 
 <hr>
