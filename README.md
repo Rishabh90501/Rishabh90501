@@ -1,48 +1,42 @@
-<h1 align="center"> 👋
-<p align="center">Hi! I’m Rishabh,</p>
-<p align="center">Welcome to my Github Profile.</p>
-</h1>
+<!-- Profile Header -->
+<h1><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=0A71B1&center=true&vCenter=true&width=440&height=54&lines=Hi!+%F0%9F%91%8B%2C+I+am++Rishabh+Salian;Welcome+to+my+Github+Profile" alt="Typing SVG" />
+</p>
+
+<p  align="center">
+  <img src="https://komarev.com/ghpvc/?username=Rishabh90501" alt="https://github.com/Rishabh90501" />
+</p></h1>
 
 <h2><p> 👨‍💻 Wanna Know about me</p></h2>
 
-<p>
-  <samp>
-    I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
-  </samp>
-</p>
-<p>
-  <samp>
-  🐍 Proficient in Python, with hands-on experience using libraries such as Pandas, NumPy, Matplotlib, and Seaborn to build data-driven solutions that uncover meaningful insights from complex datasets.
-  </samp>
-</p>
-<p>
-  <samp>
-  📊 I create interactive visualizations using Power BI, Tableau, Matplotlib, and Seaborn to tell compelling data stories, demonstrated in projects like optimising Walmart Sales Reports and increasing report productivity for Adventure Works.
-  </samp>
-</p>
-<p>
-  <samp>
-  🤖 Currently exploring Machine Learning and Natural Language Processing (NLP) as part of my ongoing Data Science & AI studies at the Boston Institute of Analytics(BIA). I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.
-  </samp>
-</p>
-<p>
-  <samp>
-  🚀 This GitHub showcases my learning journey, projects, and experiments with modern AI tech.
-  </samp>
-</p>
-<p>
-  <samp>
-  🤝 Always open to collaboration and contributing to open-source—let’s innovate and grow together!
-  </samp> 
-  <br> <br>
-</p>
-<p  align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rishabh90501" alt="https://github.com/Rishabh90501" />
-</p>
+I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
+- 🐍 Proficient in Python, with hands-on experience using libraries such as Pandas, NumPy, Matplotlib, and Seaborn to build data-driven solutions that uncover meaningful insights from complex datasets.
+- 📊 I create interactive visualizations using Power BI, Tableau, Matplotlib, and Seaborn to tell compelling data stories, demonstrated in projects like optimising Walmart Sales Reports and increasing report productivity for Adventure Works.
+- 🤖 Currently exploring Machine Learning and Natural Language Processing (NLP) as part of my ongoing Data Science & AI studies at the Boston Institute of Analytics(BIA). I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.
+- 🚀 This GitHub showcases my learning journey, projects, and experiments with modern AI tech.
+- 🤝 Always open to collaboration and contributing to open-source—let’s innovate and grow together!
+
+
 
 <br>
 
-<h2> 🔭 Tools I Work With</h2>
+<h2>🛠️ My Favorite Tools</h2>
+
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+     <!--Python --> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+     <!--SQL--> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+  </p> 
+  
+  <h3>🧰 Frameworks and Libraries</h3>
+  <p>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> 
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt ="Matplotlib" src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff"></a>
+    <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a> 
+    <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"></a>
+    <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+  </p>
 <p>
   <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />&nbsp;&nbsp;&nbsp;
