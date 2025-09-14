@@ -20,7 +20,7 @@ I’m a Final Year MBA Student from Symbiosis University. I am passionate about 
 
 <br>
 
-<h2>🛠️ My Favorite Tools</h2>
+<h2>🛠️ Tech Stack</h2>
 
   <h3>👨‍💻 Programming and Markup Languages</h3>
   <p>
@@ -36,20 +36,33 @@ I’m a Final Year MBA Student from Symbiosis University. I am passionate about 
     <a href="#"><img alt="Discord.py" src="https://custom-icon-badges.demolab.com/badge/Discord.py-0d1620.svg?logo=dpy"></a> 
     <a href="#"><img alt="Scikit Learn" src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white"></a>
     <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> 
   </p>
-<p>
-  <img src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-scikit--learn-%23F7931E?logo=scikit-learn&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white" />&nbsp;&nbsp;&nbsp;
-  <img src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff" />&nbsp;&nbsp;&nbsp;
-</p>
+  
+  <h3>🗄️ Databases and Cloud Hosting</h3>
+  <p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
+    <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
+    <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
+    <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
+  </p>
+
+  <h3>💻 Software and Tools</h3>
+  <p>
+      <a href="#"><img alt="MS Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"></a>
+      <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
+      <a href="#"><img alt="Brave" src="https://img.shields.io/badge/-Brave-FB542B?logo=brave&logoColor=white"></a>
+      <a href="#"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="#"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
+      <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="#"><img alt="Power BI" src="https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff"></a>
+      <a href="#"><img alt="Tableau" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"></a>
+  </p>
+
 <p align="center">Other Tools & Language I Work with are : DAX, Seaborn, MS Excel, MS Powerpoint, Power Query</p>
 
 <br>
