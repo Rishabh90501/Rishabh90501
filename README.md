@@ -1,11 +1,14 @@
 <!-- Profile Header -->
-<h1><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=0A71B1&center=true&vCenter=true&width=440&height=54&lines=Hi!+%F0%9F%91%8B%2C+I+am++Rishabh+Salian;Welcome+to+my+Github+Profile" alt="Typing SVG" />
-</p>
-
-<p  align="center">
+<h1>
+  <p  align="center">
   <img src="https://komarev.com/ghpvc/?username=Rishabh90501" alt="https://github.com/Rishabh90501" />
+</p>
+  
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&pause=1000&color=0A71B1&center=true&vCenter=true&width=440&height=54&lines=Hi!+%F0%9F%91%8B%2C+I+am++Rishabh+Salian;Welcome+to+my+Github+Profile" alt="Typing SVG" />
 </p></h1>
+
+
 
 <h2><p> 👨‍💻 Wanna Know about me</p></h2>
 
@@ -63,8 +66,12 @@ I’m a Final Year MBA Student from Symbiosis University. I am passionate about 
       <a href="#"><img alt="Tableau" src="https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff"></a>
   </p>
 
-<p align="center">Other Tools & Language I Work with are : DAX, Seaborn, MS Excel, MS Powerpoint, Power Query</p>
-
+### 🚀 Additional Tools & Language
+- **DAX**
+- **Seaborn**
+- **MS Powerpoint**
+- **MS Power Query**
+ 
 <br>
 
 <h2>📫 Reach me on</h2>
