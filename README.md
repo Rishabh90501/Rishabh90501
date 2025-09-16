@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-<h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hi!+%F0%9F%91%8B%2C+I+am++Rishabh+Salian;Welcome+to+my+Github+Profile" alt="Typing SVG" /></p>
 <p align ="center">  
@@ -7,36 +7,32 @@
 </p>  
 </h1>
 
+---------------------------------------------------------------------------
 <!--About Me-->
-<h1 align="center">
 
-👨‍💻 Wanna Know about me
+# 👨‍💻 Wanna Know about me
+<br>
 
-
-
-### I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
+#### I’m a Final Year MBA Student from Symbiosis University. I am passionate about transforming complex data into visualized strategic business solutions and driving data-driven insights.
 - 🐍 *Proficient in Python, with hands-on experience using libraries such as **Pandas, NumPy, Matplotlib,** and **Seaborn** to build data-driven solutions that uncover meaningful insights from complex datasets.*
 - 📊 *I create interactive visualizations using **Power BI, Tableau, Matplotlib,** and **Seaborn** to tell compelling data stories, demonstrated in projects like optimising **Walmart Sales Reports** and increasing report productivity for Adventure Works.*
 - 🤖 *Currently exploring **Machine Learning and Natural Language Processing (NLP)** as part of my ongoing Data Science & AI studies at the **Boston Institute of Analytics(BIA)**. I am developing expertise in predictive analysis techniques, logical regression, and hypothesis testing, alongside data analysis, reporting, and visualization.*
 - 🚀 *This GitHub showcases my learning journey, projects, and experiments with modern AI tech.*
 - 🤝 *Always open to collaboration and contributing to open-source—let’s innovate and grow together!*
-</h1>
+
 
 ---------------------------------------------------------------------------
 <!--Tools & Skillsets-->
 
-<h1 align="center">  
-🛠️ Tech Stack
-</h1>
-<h2>
-
-  **Programming and Markup Languages**
+  
+# 🛠️ **Tech Stack**
+#### Programming and Markup Languages
   <p>
      <!--Python --> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
      <!--SQL--> <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
   </p> 
   
-  **Frameworks and Libraries**
+ ####  Frameworks and Libraries
   <p>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a> 
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
@@ -47,7 +43,7 @@
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-ee4c2c?logo=pytorch&logoColor=white"></a> 
   </p>
   
-  **Databases and Cloud Hosting**
+ #### Databases and Cloud Hosting
   <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"></a>
@@ -56,7 +52,7 @@
     <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
   </p>
 
-**Software and Tools**
+#### Software and Tools
   <p>
       <a href="#"><img alt="MS Excel" src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"></a>
       <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe-FF0000.svg?logo=adobe&logoColor=white"></a>
@@ -73,33 +69,32 @@
   
   <p>
     
-  ###  Additional Tools & Language
+  ####  Additional Tools & Language
   - **DAX**
   - **Seaborn**
   - **MS Powerpoint**
   - **MS Power Query**
   </p>
-</h2>
+
 
 ---------------------------------------------------------------------------
 <!--Contact Me-->
 
-<h1 align="center">  
-📫 Reach me on
+# 📫 Reach me on
+<br>
 
 <p>
   <a href="https://www.linkedin.com/in/rishabh-salian/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:rishahbh.salian@outlook.com?subject=Hello%20Rishabh,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/rs_ronnie9501"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white?" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-</h1>
 
 ---------------------------------------------------------------------------
 <!--Github Stats-->
 
-<h1 align="center">  
-📊 GitHub Stats
 
+# 📊 GitHub Stats
+<br>
 
 <p align="center">
   <a href="https://github.com/Rishabh90501/github-readme-stats">
@@ -109,4 +104,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh90501&theme=github_dark_dimmed&layout=compact&langs_count=8&card_width=320" />
   </a>
 </p>
-</h1>
